@@ -7,4 +7,7 @@ public class Course {
     private String description;
 
     //comment
+    
+    public String hello(){
+        return "hello";
 }
